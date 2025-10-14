@@ -1,6 +1,6 @@
 # Snowell
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently an Engineering student. <br>👯 I’m looking for someone who love computer scinece in oder to climb together. <br>🤝 I’m looking for help with code optimization and cybersécurity tools <br>🌱 I’m currently learning Cybersécurity and coe optimiszation in C and C++ <br>⚡ I L O V E G A M I N G
 
 
 ## 🌐 Socials:
