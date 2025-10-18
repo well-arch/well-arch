@@ -27,7 +27,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=well-arch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<img src="https://github-profile-trophy.vercel.app/?username=well-arch&theme=radical&no-bg=true&no-frame=true&margin-w=10&column=1" alt="Snowell's Trophies" />
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=well-arch&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" alt="Snowell's GitHub Trophies" />
+</p>
 
 
 
