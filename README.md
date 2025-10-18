@@ -40,6 +40,7 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+https://www.linkedin.com/in/sindou-tiene-14292434b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
 ## 🌐 Want to chase ?
 
 <p align="center">
@@ -49,7 +50,7 @@
   <a href="mailto:tieneabel04@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile" target="_blank">
+  <a href="https://www.linkedin.com/in/sindou-tiene" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://twitter.com/yourprofile" target="_blank">
