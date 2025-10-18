@@ -17,6 +17,15 @@
   ![](https://nirzak-streak-stats.vercel.app/?user=well-arch&theme=dark&hide_border=false)
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=well-arch&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br/>
 
+  ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=well-arch&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" alt="Snowell's GitHub stats" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=well-arch&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=well-arch&theme=tokyonight&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=well-arch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
