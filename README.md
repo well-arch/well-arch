@@ -53,6 +53,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://x.com/abeltiene?s=21" target="_blank">
-    <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/x-logo.svg" width="90" alt="X">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X">
   </a>
 </p>
