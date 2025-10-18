@@ -1,5 +1,5 @@
 # Snowell
-# 💫 About Me:
+# 💫 Let Me Introduce My Self:
 🔭 Engineering student diving deep into Cybersecurity and Code Optimization (C/C++). <br>👯 Looking for tech friends who love computer science as much as I do — let’s level up together! <br>🤝  Open to collabs on anything related to security tools or fast, efficient code. <br>🌱  Always learning, always tinkering. <br>⚡  I LOVE GAMING — it’s my daily dose of adrenaline and strategy! 🎮
 
 
