@@ -97,10 +97,12 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/well-arch/Snowell/output/pacman-contribution-graph.svg">
 </picture>
 
-**Entertainment**  
 <p align="center">
+**Entertainment**  
+  
   ![Steam](https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
   ![Epic Games](https://img.shields.io/badge/EpicGames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
+
 <p\>
   
 ### ✍️ Dev Quote
