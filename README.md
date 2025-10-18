@@ -4,11 +4,11 @@
 
 
 # Snowell
-# 💫 Let Me Introduce My Self:
+# 💫 Let Me Introduce My Self
 🔭 Engineering student diving deep into Cybersecurity and Code Optimization (C/C++). <br>👯 Looking for tech friends who love computer science as much as I do — let’s level up together! <br>🤝  Open to collabs on anything related to security tools or fast, efficient code. <br>🌱  Always learning, always tinkering. <br>⚡  I LOVE GAMING — it’s my daily dose of adrenaline and strategy! 🎮
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/channels/@me/1319361159916425358/1428995185454354473) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tieneabel04@gmail.com) 
 
 # 💻 Tech Stack:
@@ -35,7 +35,4 @@
 
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=well-arch&icon=0&color=0)](https://visitcount.itsvg.in)
 
