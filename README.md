@@ -40,7 +40,7 @@
 ### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🌐 Connect with Me
+## 🌐 Want to chase ?
 
 <p align="center">
   <a href="https://discord.com/users/1319361159916425358" target="_blank">
