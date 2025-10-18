@@ -1,3 +1,4 @@
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+Everyone!;I'm+Snowell+%F0%9F%91%8B;I+LOVE+Gaming!;You+Who+are+YOU?;" alt="Typing SVG" />
 </p>
@@ -22,10 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=well-arch&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=well-arch&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🏆 GitHub Trophies
 
