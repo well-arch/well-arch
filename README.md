@@ -8,6 +8,18 @@
 # 💫 Let Me Introduce My Self
 🔭 Engineering student diving deep into Cybersecurity and Code Optimization (C/C++). <br>👯 Looking for tech friends who love computer science as much as I do — let’s level up together! <br>🤝  Open to collabs on anything related to security tools or fast, efficient code. Yes I like coding as well. Sometimes I work on Exercisme or hackerRank  <br>🌱  Always learning, always tinkering. <br>⚡  I LOVE GAMING — it’s my daily dose of adrenaline and strategy! 🎮
 
+<p align="center">
+
+# 💫 Let Me Introduce Myself
+
+🔭 Engineering student diving deep into Cybersecurity and Code Optimization (C/C++).<br>
+👯 Looking for tech friends who love computer science as much as I do — let’s level up together!<br>
+🤝 Open to collabs on anything related to security tools or fast, efficient code. Yes, I like coding as well. Sometimes I work on Exercism or HackerRank.<br>
+🌱 Always learning, always tinkering.<br>
+⚡ I LOVE GAMING — it’s my daily dose of adrenaline and strategy! 🎮
+
+</p>
+
 
 # 💻 Tech Stack
 
