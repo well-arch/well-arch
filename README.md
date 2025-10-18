@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0EF7F7&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Snowell+👋;Engineering+Student+%7C+Cybersecurity+Enthusiast;Lover+of+Code%2C+Optimization+%26+Gaming!" alt="Hello World">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Snowell+%F0%9F%91%8B;Engineering+Student+in+Cybersecurity;Passionate+about+Code,+Optimization+%26+Gaming!" alt="Typing SVG" />
 </p>
+
 
 # Snowell
 # 💫 Let Me Introduce My Self:
