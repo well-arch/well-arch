@@ -105,7 +105,7 @@
 
 ## Want to Play ?
  <p align="center">
-    <a href="https://discord.com/users/1319361159916425358" target="_blank">
+    <a href="https://steamcommunity.com/profiles/76561199833377557/" target="_blank">
       <img src="https://img.shields.io/badge/Steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
     </a>
     <a href="https://discord.com/users/1319361159916425358" target="_blank">
