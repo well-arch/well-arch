@@ -3,7 +3,7 @@
 
 <br>
 <p align="center">
-    <h1 align="center">✩&emsp;drknzz&emsp;✩</h1>
+    <h1 align="center">✩&emsp;Snowell&emsp;✩</h1>
 </p>
 
 <p align="center">
