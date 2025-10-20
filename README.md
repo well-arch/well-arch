@@ -87,7 +87,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=well-arch&show_icons=true&theme=radical&hide_border=true" alt="Snowell's GitHub stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=well-arch&theme=radical&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=well-arc&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=well-arch&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 <p align="center">
     <a href="https://leetcode.com/well-arch/"><img width="48%" src="https://leetcode.card.workers.dev/well-arch?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
