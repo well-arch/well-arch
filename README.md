@@ -11,7 +11,6 @@
 </p>
 
 
-# Snowell
 # 💫 Let Me Introduce Myself
 
 🔭 Engineering student diving deep into Cybersecurity and Code Optimization (C/C++).<br>
