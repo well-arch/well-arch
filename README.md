@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hello+Everyone!;I'm+Snowell+%F0%9F%91%8B;I+LOVE+Gaming!;You+Who+are+YOU?;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Rubik+Dirt&size=26&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Yooo+Everyone!;Welcome+to+my+world!+%F0%9F%91%8B;%EF%BD%A1%E2%97%95%E2%80%BF%E2%97%95%EF%BD%A1;" alt="Typing SVG" />
 </p>
 
 
