@@ -82,20 +82,24 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 
-## 📊 GitHub Stats
+## 📊 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=well-arch&show_icons=true&theme=radical&hide_border=true" alt="Snowell's GitHub stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=well-arch&theme=radical&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=well-arch&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
-
+<p align="center">
+    <a href="https://leetcode.com/well-arch/"><img width="48%" src="https://leetcode.card.workers.dev/well-arch?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+    <a href="https://github.com/well-arch"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=well-arch&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
+</p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=well-arch&theme=radical&frame=true&no-bg=true&margin-w=10&row=1" alt="Snowell's GitHub Trophies" />
 </p>
+
 
 
 
