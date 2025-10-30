@@ -66,6 +66,9 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Django](https://img.shields.io/badge/Django-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![PyPI - Versions from Framework Classifiers](https://img.shields.io/pypi/frameworkversions/:frameworkName/:packageName)
+
 
 **Database & API**  
 ![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
