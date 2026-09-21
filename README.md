@@ -96,11 +96,11 @@
     <a href="https://github.com/well-arch"><img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=well-arch&theme=dark&hide=html,css,cmake&layout=compact&langs_count=5&bg_color=101010&hide_title=true"></a>
 </p>
 
--- ## 🏆 GitHub Trophies
+//## 🏆 GitHub Trophies
 
--- <p align="center">
---  <img src="https://github-profile-trophy.vercel.app/?username=well-arch&theme=radical&frame=true&no-bg=true&margin-w=10&row=1" alt="Snowell's GitHub Trophies" />
--- </p>
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=well-arch&theme=radical&frame=true&no-bg=true&margin-w=10&row=1" alt="Snowell's GitHub Trophies" />
+ </p>
 
 
 
